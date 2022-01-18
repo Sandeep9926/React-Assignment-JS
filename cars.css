@@ -1,0 +1,9 @@
+.cars {
+  width: 500px;
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  padding: 4rem;
+  background-color: grey;
+  border-radius: 40px;
+}
